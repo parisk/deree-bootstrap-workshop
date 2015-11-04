@@ -13,6 +13,8 @@ Start working instantly based on this code by visiting https://www.sourcelair.co
 ## Flow
 
 1. Declare the basic building blocks of the website (navigation, top content, detailed content, footer)
+2. Fill each building block with the proper content
+3. Introduce additional styling to our web page
 
 ## Feedback
 
