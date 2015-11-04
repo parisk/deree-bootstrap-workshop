@@ -16,6 +16,12 @@ Start working instantly based on this code by visiting https://www.sourcelair.co
 2. Fill each building block with the proper content
 3. Introduce additional styling to our web page
 
+## Useful links
+- The Bootstrap grid system - http://getbootstrap.com/css/#grid
+- Bootstrap container elements - http://getbootstrap.com/css/#overview-container
+- The Bootstrap navbar component - http://getbootstrap.com/components/#navbar
+- The Bootstrap jumbotron component - http://getbootstrap.com/components/#jumbotron
+
 ## Feedback
 
-We are very interesting in learning how you liked this material and the workshop itself. Please fill in this anonymous form and share your feedback with us; https://goo.gl/gdthI3.
+We are very interested in learning how you liked this material and the workshop itself. Please fill in this anonymous form and share your feedback with us; https://goo.gl/gdthI3.
