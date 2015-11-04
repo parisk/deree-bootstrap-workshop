@@ -1,0 +1,10 @@
+.navbar-default {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    background-image: url('assets/background.jpg'); /* Background image location is relative to the CSS file */
+    background-repeat: no-repeat;
+    height: calc(80vh - 51px);
+    color: #fafafa;
+}
