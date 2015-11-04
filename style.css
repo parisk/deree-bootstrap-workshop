@@ -1,10 +1,11 @@
+
 .navbar-default {
-    margin-bottom: 0;
+    margin-bottom: 0; /* Remove margin from top navigation, since we want it to be adjastent to the Jumbotron element. */
 }
 
 .jumbotron {
     background-image: url('assets/background.jpg'); /* Background image location is relative to the CSS file */
     background-repeat: no-repeat;
-    height: calc(80vh - 51px);
+    height: calc(80vh - 51px); /* This line sets the height of the jumbotron element to 80% of the viewport height minus 51px, which is the top navigation height. */
     color: #fafafa;
 }
