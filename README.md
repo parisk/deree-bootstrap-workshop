@@ -18,4 +18,4 @@ Start working instantly based on this code by visiting https://www.sourcelair.co
 
 ## Feedback
 
-We are very interesting in learning how you liked this material and the workshop itself. Please fill in this anonymous form and share your feedback with us; https://goo.gl/gdthI3.
+We are very interested in learning how you liked this material and the workshop itself. Please fill in this anonymous form and share your feedback with us; https://goo.gl/gdthI3.
